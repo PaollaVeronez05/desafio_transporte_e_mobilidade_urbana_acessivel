@@ -125,26 +125,31 @@ Nosso objetivo foi criar uma experiência inclusiva, prática e respeitosa para 
 
 📸 Captura de Tela:
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a2bfcaf0-90fd-42ef-8594-d4f8fb1a0e8d" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/11a44b03-05b5-48d1-a77d-f03dd83dbfd9" />
+
 
 ---
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cc4c6f2d-5251-43d9-9016-e109599ef15b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0fb92afe-5615-4369-831b-f47cc50ec204" />
 
----
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b17b6b07-2017-4bbe-b54e-c7565d36a968" />
-
----
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5602711f-7ce7-4c4a-ac70-83e4be49da11" />
-
----
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2570d3a0-7701-4e52-91a5-48916578e6ce" />
-
----
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/77c08780-14cb-4c9a-9b61-f66d530815f6" />
 
 ---
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1673e92-6ca5-42d8-9bd9-f1c664ca5b3b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8ccded95-15a8-4d70-923a-f397a3f7d828" />
+
+---
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/05ea6bb3-8cf3-4490-a4cb-f8a1f39cc6fa" />
+
+---
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6f0686d7-6515-4010-b33f-282f07eff585" />
+
+
+---
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8de660ad-f29b-4b27-a7de-f03c977453e5" />
+
+---
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7b15db1f-b2fe-47dc-a972-20ccae0a7bac" />
+
 
 ---
 
